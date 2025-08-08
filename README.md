@@ -65,8 +65,8 @@
 
 <p align="center">
   <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="[https://leetcode.com](https://leetcode.com/u/vishallsk/)"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="[https://www.codechef.com](https://www.codechef.com/users/vishal_lsk)"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com](https://leetcode.com/u/vishallsk/"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com](https://www.codechef.com/users/vishal_lsk"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
