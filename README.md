@@ -30,13 +30,6 @@
 | 🔍 Reverse Engg | Ghidra, IDA Pro, Radare2                                              |
 | 🖥️ OS & Platforms| Kali Linux, Parrot OS, Windows Security                              |
 
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,tailwind,threejs,php,mysql,firebase,linux,git,github,figma,blender&perline=8" />
-</p>
 
 ---
 
