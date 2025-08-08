@@ -17,19 +17,6 @@
 - 🎨 Loves building **interactive UI/UX** and designing **creative 3D elements**
 - 💡 Learning never stops – from **bug bounties to AI-driven security models**
 
----
-
-### 🛡️ Cybersecurity Toolkit
-
-| Category       | Tools                                                                 |
-|----------------|-----------------------------------------------------------------------|
-| 🧪 Pen Testing  | Nmap, Burp Suite, SQLMap, Metasploit, Wireshark                      |
-| 🔬 Forensics    | Autopsy, FTK Imager, Volatility                                       |
-| 🌐 Web Security | OWASP ZAP, DirBuster, Nikto                                           |
-| 📡 Network Tools| Snort, Suricata, OpenVAS, Aircrack-ng                                 |
-| 🔍 Reverse Engg | Ghidra, IDA Pro, Radare2                                              |
-| 🖥️ OS & Platforms| Kali Linux, Parrot OS, Windows Security                              |
-
 
 ---
 
@@ -57,7 +44,7 @@
 ### 🧠 Platforms I'm Active On
 
 <p align="center">
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/vishallsk.cs2023"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="https://leetcode.com/u/vishallsk/"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/vishal_lsk"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
