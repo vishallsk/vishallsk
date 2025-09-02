@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Vishal!</h1>
 <p align="center">
-  🚀 Cybersecurity & AI Enthusiast | 💻 Ethical Hacker | 🌐 Cloud & Web Developer | 🎨 Creative Tech Explorer
+  🚀 Cybersecurity & AI Enthusiast | 💻 Ethical Hacker | 🌐 Cloud & Web Developer 
 </p>
 
 <p align="center">
@@ -11,12 +11,10 @@
 
 ### 🧠 About Me
 
-- 🎓 Final Year Student with a strong interest in **Cybersecurity, AI & Ethical Hacking**
+- 🎓 Pre-Final Year Student with a strong interest in **Cybersecurity, AI & Ethical Hacking**
 - 🌐 Passionate about **Cloud & IoT Applications**
 - 🔍 Exploring **Web Security, Digital Forensics & Intrusion Detection Systems**
-- 🎨 Loves building **interactive UI/UX** and designing **creative 3D elements**
 - 💡 Learning never stops – from **bug bounties to AI-driven security models**
-
 
 ---
 
@@ -25,7 +23,6 @@
 - 🕷️ Web Exploitation & Bug Bounty Hunting
 - 🧠 AI-Based Threat Detection & ML for Cyber Defense
 - ☁️ Full-stack Web & Cloud App Development
-- 🎨 Building Interactive 3D Web Interfaces using Three.js
 
 ---
 
@@ -54,9 +51,8 @@
 ### 🌐 Let's Connect!
 
 <p align="center">
-  <a href="mailto:vishal.lsk.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vishallsk.cs2023@citchennai.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/l-s-k-vishal-32b3aa290/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/vishal.lsk"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
